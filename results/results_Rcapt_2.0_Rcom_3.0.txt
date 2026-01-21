@@ -1,0 +1,34 @@
+Instance                           Algorithm                Time (s)    Solution Size  Feasible  
+-------------------------------------------------------------------------------------------------
+captANOR150_7_4.dat                Greedy Construct         0.0007      15             True      
+captANOR150_7_4.dat                Nearest Neighbor         0.0025      21             True      
+captANOR150_7_4.dat                Insertion Heuristic      0.0069      12             True      
+captANOR150_7_4.dat                Greedy + Repair          0.0002      10             True      
+captANOR150_7_4.dat                Merge 2 -> 1             0.0005      10             True      
+captANOR150_7_4.dat                VND                      0.1518      8              True      
+captANOR150_7_4.dat                GRASP                    3.7591      7              True      
+captANOR150_7_4.dat                Genetic Algorithm        9.5240      6              True      
+captANOR1600_16_100_2021.dat       Greedy Construct         0.0039      121            True      
+captANOR1600_16_100_2021.dat       Nearest Neighbor         0.1509      171            True      
+captANOR1600_16_100_2021.dat       Insertion Heuristic      0.6576      68             True      
+captANOR1600_16_100_2021.dat       Greedy + Repair          0.0011      43             True      
+captANOR1600_16_100_2021.dat       Merge 2 -> 1             0.0341      43             True      
+captANOR1600_16_100_2021.dat       VND                      1.6429      37             True      
+captANOR1600_16_100_2021.dat       GRASP                    43.8816     35             True      
+captANOR1600_16_100_2021.dat       Genetic Algorithm        861.7635    36             True      
+captANOR400_7_10_2021.dat          Greedy Construct         0.0018      15             True      
+captANOR400_7_10_2021.dat          Nearest Neighbor         0.0086      21             True      
+captANOR400_7_10_2021.dat          Insertion Heuristic      0.0406      14             True      
+captANOR400_7_10_2021.dat          Greedy + Repair          0.0003      10             True      
+captANOR400_7_10_2021.dat          Merge 2 -> 1             0.0014      10             True      
+captANOR400_7_10_2021.dat          VND                      0.5307      8              True      
+captANOR400_7_10_2021.dat          GRASP                    9.1123      8              True      
+captANOR400_7_10_2021.dat          Genetic Algorithm        63.7165     7              True      
+captANOR900_14_20_2021.dat         Greedy Construct         0.0042      79             True      
+captANOR900_14_20_2021.dat         Nearest Neighbor         0.0513      112            True      
+captANOR900_14_20_2021.dat         Insertion Heuristic      0.2003      38             True      
+captANOR900_14_20_2021.dat         Greedy + Repair          0.0011      33             True      
+captANOR900_14_20_2021.dat         Merge 2 -> 1             0.0129      33             True      
+captANOR900_14_20_2021.dat         VND                      0.8722      28             True      
+captANOR900_14_20_2021.dat         GRASP                    22.1448     27             True      
+captANOR900_14_20_2021.dat         Genetic Algorithm        231.5761    27             True      
