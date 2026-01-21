@@ -1,0 +1,82 @@
+Instance                           Algorithm                Time (s)    Solution Size  Feasible  
+-------------------------------------------------------------------------------------------------
+grille1010_1.dat                   Greedy Construct         0.0034      65             True      
+grille1010_1.dat                   Nearest Neighbor         0.0109      31             True      
+grille1010_1.dat                   Insertion Heuristic      0.0668      17             True      
+grille1010_1.dat                   Greedy + Repair          0.0010      18             True      
+grille1010_1.dat                   Merge 2 -> 1             0.0076      18             True      
+grille1010_1.dat                   VND                      0.4085      13             True      
+grille1010_1.dat                   GRASP                    4.9372      13             True      
+grille1010_1.dat                   Genetic Algorithm        5.6367      12             True      
+grille1010_2.dat                   Greedy Construct         0.0008      70             True      
+grille1010_2.dat                   Nearest Neighbor         0.0022      31             True      
+grille1010_2.dat                   Insertion Heuristic      0.0031      18             True      
+grille1010_2.dat                   Greedy + Repair          0.0003      18             True      
+grille1010_2.dat                   Merge 2 -> 1             0.0044      18             True      
+grille1010_2.dat                   VND                      0.1574      14             True      
+grille1010_2.dat                   GRASP                    3.1895      12             True      
+grille1010_2.dat                   Genetic Algorithm        5.6426      12             True      
+grille1515_1.dat                   Greedy Construct         0.0019      163            True      
+grille1515_1.dat                   Nearest Neighbor         0.0145      92             True      
+grille1515_1.dat                   Insertion Heuristic      0.0124      38             True      
+grille1515_1.dat                   Greedy + Repair          0.0006      39             True      
+grille1515_1.dat                   Merge 2 -> 1             0.0298      39             True      
+grille1515_1.dat                   VND                      0.4098      28             True      
+grille1515_1.dat                   GRASP                    7.9442      27             True      
+grille1515_1.dat                   Genetic Algorithm        15.0831     24             True      
+grille1515_2.dat                   Greedy Construct         0.0015      163            True      
+grille1515_2.dat                   Nearest Neighbor         0.0098      83             True      
+grille1515_2.dat                   Insertion Heuristic      0.0149      41             True      
+grille1515_2.dat                   Greedy + Repair          0.0004      32             True      
+grille1515_2.dat                   Merge 2 -> 1             0.0147      32             True      
+grille1515_2.dat                   VND                      0.3477      29             True      
+grille1515_2.dat                   GRASP                    7.5017      27             True      
+grille1515_2.dat                   Genetic Algorithm        15.4037     27             True      
+grille2020_1.dat                   Greedy Construct         0.0025      282            True      
+grille2020_1.dat                   Nearest Neighbor         0.0293      143            True      
+grille2020_1.dat                   Insertion Heuristic      0.0381      81             True      
+grille2020_1.dat                   Greedy + Repair          0.0008      61             True      
+grille2020_1.dat                   Merge 2 -> 1             0.1214      61             True      
+grille2020_1.dat                   VND                      1.0590      47             True      
+grille2020_1.dat                   GRASP                    13.3513     44             True      
+grille2020_1.dat                   Genetic Algorithm        32.7893     43             True      
+grille2020_2.dat                   Greedy Construct         0.0026      301            True      
+grille2020_2.dat                   Nearest Neighbor         0.0327      171            True      
+grille2020_2.dat                   Insertion Heuristic      0.0523      83             True      
+grille2020_2.dat                   Greedy + Repair          0.0012      56             True      
+grille2020_2.dat                   Merge 2 -> 1             0.0715      56             True      
+grille2020_2.dat                   VND                      1.2109      50             True      
+grille2020_2.dat                   GRASP                    13.3882     50             True      
+grille2020_2.dat                   Genetic Algorithm        36.5298     47             True      
+grille2525_1.dat                   Greedy Construct         0.0031      366            True      
+grille2525_1.dat                   Nearest Neighbor         0.0492      225            True      
+grille2525_1.dat                   Insertion Heuristic      0.0749      86             True      
+grille2525_1.dat                   Greedy + Repair          0.0013      88             True      
+grille2525_1.dat                   Merge 2 -> 1             0.2280      88             True      
+grille2525_1.dat                   VND                      2.0375      64             True      
+grille2525_1.dat                   GRASP                    21.5527     61             True      
+grille2525_1.dat                   Genetic Algorithm        55.3980     59             True      
+grille2525_2.dat                   Greedy Construct         0.0042      486            True      
+grille2525_2.dat                   Nearest Neighbor         0.0700      278            True      
+grille2525_2.dat                   Insertion Heuristic      0.1342      123            True      
+grille2525_2.dat                   Greedy + Repair          0.0011      86             True      
+grille2525_2.dat                   Merge 2 -> 1             0.2398      86             True      
+grille2525_2.dat                   VND                      4.5237      77             True      
+grille2525_2.dat                   GRASP                    23.4481     79             True      
+grille2525_2.dat                   Genetic Algorithm        81.1010     77             True      
+grille3030_1.dat                   Greedy Construct         0.0038      263            True      
+grille3030_1.dat                   Nearest Neighbor         0.1010      308            True      
+grille3030_1.dat                   Insertion Heuristic      0.1872      130            True      
+grille3030_1.dat                   Greedy + Repair          0.0014      94             True      
+grille3030_1.dat                   Merge 2 -> 1             0.5836      93             True      
+grille3030_1.dat                   VND                      6.2602      91             True      
+grille3030_1.dat                   GRASP                    34.2646     89             True      
+grille3030_1.dat                   Genetic Algorithm        113.1813    89             True      
+grille3030_2.dat                   Greedy Construct         0.0034      375            True      
+grille3030_2.dat                   Nearest Neighbor         0.1546      417            True      
+grille3030_2.dat                   Insertion Heuristic      0.3220      175            True      
+grille3030_2.dat                   Greedy + Repair          0.0017      117            True      
+grille3030_2.dat                   Merge 2 -> 1             1.2109      116            True      
+grille3030_2.dat                   VND                      14.0778     112            True      
+grille3030_2.dat                   GRASP                    40.1943     110            True      
+grille3030_2.dat                   Genetic Algorithm        120.0000    0              False     
